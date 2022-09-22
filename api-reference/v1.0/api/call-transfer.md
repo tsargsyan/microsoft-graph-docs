@@ -198,7 +198,7 @@ Content-Type: application/json
         "state": "terminated",
         "resultInfo": {
           "@odata.type": "#microsoft.graph.resultInfo",
-          "code": 0,
+          "code": 200,
           "subcode": 7015,
           "message": "GracefulTransferCompleted"
         }
